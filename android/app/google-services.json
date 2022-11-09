@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "718713164450",
+    "project_id": "spa-app-e98f0",
+    "storage_bucket": "spa-app-e98f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718713164450:android:f2a529a79733ff355e7dfb",
+        "android_client_info": {
+          "package_name": "com.meego.apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718713164450-0gch77227a8g9r2qd5e85kd43146bgc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meego.apps",
+            "certificate_hash": "71f01a88752732a58dc8af476acbfc0100c6df49"
+          }
+        },
+        {
+          "client_id": "718713164450-8lv7t7qkub1m6mhckpujmfk2pqsdn654.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meego.apps",
+            "certificate_hash": "ce57c5fedf3099ab2ba179f90376084624cfc703"
+          }
+        },
+        {
+          "client_id": "718713164450-nhpebk507o1tkd068gu5cqiugs1lnhiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meego.apps",
+            "certificate_hash": "cd3094290c82b91e85dff97a3862df7734cb48b3"
+          }
+        },
+        {
+          "client_id": "718713164450-aq60h16tcha25qqia5qkiefbco06m4od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkGV78syIaU4fhc5VBW1pzK0GwcLyJeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718713164450-aq60h16tcha25qqia5qkiefbco06m4od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718713164450-41jcj0ddadd5dm3lfmfn9d5ti9cshnfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meego.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718713164450:android:cb9a52b2b3477f765e7dfb",
+        "android_client_info": {
+          "package_name": "com.meego.apps.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718713164450-kosshqbvold9lftpdr9n5dfba7treb17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meego.apps.android",
+            "certificate_hash": "9254a2b5d99b8206076a9f10fb02bb7633166b34"
+          }
+        },
+        {
+          "client_id": "718713164450-l9per808piammtesp0r5mh25589cs4ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meego.apps.android",
+            "certificate_hash": "cd3094290c82b91e85dff97a3862df7734cb48b3"
+          }
+        },
+        {
+          "client_id": "718713164450-aq60h16tcha25qqia5qkiefbco06m4od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkGV78syIaU4fhc5VBW1pzK0GwcLyJeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718713164450-aq60h16tcha25qqia5qkiefbco06m4od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718713164450-41jcj0ddadd5dm3lfmfn9d5ti9cshnfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meego.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718713164450:android:f4065a5502a30b135e7dfb",
+        "android_client_info": {
+          "package_name": "com.meego.partnerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718713164450-aq60h16tcha25qqia5qkiefbco06m4od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDkGV78syIaU4fhc5VBW1pzK0GwcLyJeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718713164450-aq60h16tcha25qqia5qkiefbco06m4od.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718713164450-41jcj0ddadd5dm3lfmfn9d5ti9cshnfk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meego.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
